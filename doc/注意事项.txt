@@ -1,0 +1,2 @@
+API使用指南
+http://www.rabbitmq.com/api-guide.html
